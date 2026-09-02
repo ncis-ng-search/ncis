@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NCIS Policy Verification</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header class="navbar">
+        <div class="nav-container">
+            <div class="logo">
+                <img src="ncis-logo.png" alt="NCIS Logo" class="logo-img">
+            <span class="logo-text">NCIS</span>
+            </div>
+            <div class="hamburger">☰</div>
+        </div>
+    </header>
+
+    <main class="main-container">
+        
+        <div class="card search-card">
+            <h2>Search Policy</h2>
+            <p class="subtitle">Enter your vehicle plate number to verify your NCIS policy record.</p>
+            
+            <div class="form-group">
+                <label for="plateInput">Vehicle Plate Number</label>
+                <input type="text" id="plateInput" placeholder="E.G. ABC123AC" autocomplete="off">
+            </div>
+            
+            <button id="verifyBtn" onclick="verifyPolicy()">Verify Policy</button>
+            <p class="security-note">For security, only letters, numbers and hyphen are accepted.</p>
+        </div>
+
+        <div class="card result-card">
+            <div class="result-header">
+                <h2>Verification Result</h2>
+                <span class="badge blue-badge">NCIS Verification</span>
+            </div>
+
+            <div id="emptyState" class="placeholder-box">
+                <p>Enter a vehicle plate number and click Verify Policy. The verification response will appear here.</p>
+            </div>
+
+            <div id="resultState" style="display: none;">
+                
+                <div class="alert-box success">
+                    Policy record found for <strong id="resPlateHeader">---</strong>.
+                </div>
+
+                <h3 id="resName" class="holder-name">---</h3>
+                <span class="badge light-blue-badge">Verified Record</span>
+
+                <div class="policy-list">
+                    <div class="info-box">
+                        <span class="info-label">PLATE NUMBER</span>
+                        <span class="info-value" id="resPlate">---</span>
+                    </div>
+                    <div class="info-box">
+                        <span class="info-label">POLICY NUMBER</span>
+                        <span class="info-value" id="resPolicy">---</span>
+                    </div>
+                    <div class="info-box">
+                        <span class="info-label">VEHICLE MAKE</span>
+                        <span class="info-value" id="resMake">---</span>
+                    </div>
+                    <div class="info-box">
+                        <span class="info-label">VEHICLE MODEL</span>
+                        <span class="info-value" id="resModel">---</span>
+                    </div>
+                    <div class="info-box">
+                        <span class="info-label">VEHICLE CHASSIS</span>
+                        <span class="info-value" id="resChassis">---</span>
+                    </div>
+                    <div class="info-box">
+                        <span class="info-label">POLICY TYPE</span>
+                        <span class="info-value" id="resType">---</span>
+                    </div>
+                    <div class="info-box">
+                        <span class="info-label">ISSUE DATE</span>
+                        <span class="info-value" id="resIssue">---</span>
+                    </div>
+                    <div class="info-box">
+                        <span class="info-label">EXPIRY DATE</span>
+                        <span class="info-value" id="resExpiry">---</span>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+
+    </main>
+
+    <footer>
+        <p>Home</p>
+        <p>© 2026 NCIS Nigeria. All Rights Reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
