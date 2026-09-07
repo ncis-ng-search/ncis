@@ -33,7 +33,7 @@ const policyDatabase = {
         issueDate: "2026-09-01",
         expiryDate: "2027-09-01"
         },
-    "RUM48XB": {
+    "ABN332SZ": {
         name: "PASTOR MRS AMAKA KELECHI",
         plate: "ABN332SZ",
         policyNo: "CV260825006",
