@@ -32,7 +32,18 @@ const policyDatabase = {
         type: "Commercial",
         issueDate: "2026-09-01",
         expiryDate: "2027-09-01"
-
+        },
+    "RUM48XB": {
+        name: "PASTOR MRS AMAKA KELECHI",
+        plate: "ABN332SZ",
+        policyNo: "CV260825006",
+        make: "Toyota",
+        model: "Highlander",
+        chassis: "JTEGF21A710005810",
+        type: "Private",
+        issueDate: "2026-09-05",
+        expiryDate: "2027-09-05"
+        
     }
 };
 
