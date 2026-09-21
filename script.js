@@ -65,6 +65,17 @@ const policyDatabase = {
         type: "Commercial",
         issueDate: "2026-09-18",
         expiryDate: "2027-09-18"
+     },
+    "ABN325SZ": {
+        name: "ANIEROBI TOCHUKWU",
+        plate: "ABN325SZ",
+        policyNo: "CV260825006",
+        make: "Toyota",
+        model: "Sienna",
+        chassis: "5TDZA23C85S345738",
+        type: "Private",
+        issueDate: "2026-09-21",
+        expiryDate: "2027-09-21"
         
     }
 };
