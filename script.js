@@ -54,6 +54,17 @@ const policyDatabase = {
         type: "Commercial",
         issueDate: "2026-09-05",
         expiryDate: "2027-09-05"
+     },
+    "EBM940XA": {
+        name: "EDU EZEUGO MOTORS",
+        plate: "EBM940XA",
+        policyNo: "CV260900230",
+        make: "Daihatsu",
+        model: "Mini Bus",
+        chassis: "S200V0075327",
+        type: "Commercial",
+        issueDate: "2026-09-18",
+        expiryDate: "2027-09-18"
         
     }
 };
