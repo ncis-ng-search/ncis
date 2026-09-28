@@ -76,6 +76,29 @@ const policyDatabase = {
         type: "Private",
         issueDate: "2026-09-21",
         expiryDate: "2027-09-21"
+     },
+    "WER998YD": {
+        name: "ISAAC WONOR",
+        plate: "WER998YD",
+        policyNo: "CV260903111",
+        make: "Nissan",
+        model: "Caravan",
+        chassis: "VPE25079685",
+        type: "Commercial",
+        issueDate: "2026-09-25",
+        expiryDate: "2027-09-25"
+     },
+    "JJT686ZG": {
+        name: "IKENNA SOLOMON",
+        plate: "JJT686ZG",
+        policyNo: "CV260903111",
+        make: "Nissan",
+        model: "Caravan",
+        chassis: "VPE25802185",
+        type: "Commercial",
+        issueDate: "2026-09-16",
+        expiryDate: "2027-09-16"
+
         
     }
 };
