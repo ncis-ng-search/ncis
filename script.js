@@ -109,6 +109,17 @@ const policyDatabase = {
         type: "Commercial",
         issueDate: "2026-09-30",
         expiryDate: "2027-09-30"
+     },
+    "LSR70XN": {
+        name: "MR ODIONU JOHNSON",
+        plate: "LSR70XN",
+        policyNo: "CV260911230",
+        make: "Mitsubishi",
+        model: "L300",
+        chassis: "JMBLZP03VKA102678",
+        type: "Commercial",
+        issueDate: "2026-09-30",
+        expiryDate: "2027-09-30"
 
         
     }
