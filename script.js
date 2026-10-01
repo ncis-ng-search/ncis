@@ -98,6 +98,17 @@ const policyDatabase = {
         type: "Commercial",
         issueDate: "2026-09-16",
         expiryDate: "2027-09-16"
+     },
+    "NWA322XB": {
+        name: "CHIMAOBI ONYEMA",
+        plate: "NWA322XB",
+        policyNo: "CV260900230",
+        make: "Daihatsu",
+        model: "Hijet",
+        chassis: "S211P0004034",
+        type: "Commercial",
+        issueDate: "2026-09-30",
+        expiryDate: "2027-09-30"
 
         
     }
