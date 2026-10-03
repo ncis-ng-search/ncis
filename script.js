@@ -120,6 +120,40 @@ const policyDatabase = {
         type: "Commercial",
         issueDate: "2026-09-30",
         expiryDate: "2027-09-30"
+     },
+    "FGG989HC": {
+        name: "EVANGELIST OFFOR PECULIAR",
+        plate: "FGG989HC",
+        policyNo: "CV260825006",
+        make: "Toyota",
+        model: "Corolla",
+        chassis: "2T1BR12E42C534558",
+        type: "Private",
+        issueDate: "2026-09-25",
+        expiryDate: "2027-09-25"
+     },
+    "RLU228ZV": {
+        name: "UPLA PAUL TIGISHOR",
+        plate: "RLU228ZV",
+        policyNo: "CV260911230",
+        make: "Daihatsu",
+        model: "Mini Bus",
+        chassis: "S220G0048550",
+        type: "Commercial",
+        issueDate: "2026-09-30",
+        expiryDate: "2027-09-30"
+     },
+    "ABJ510TQ": {
+        name: "ONYEISHI PATRICK CHINWEIKE",
+        plate: "ABJ510TQ",
+        policyNo: "CV260911230",
+        make: "Toyota",
+        model: "Sienna",
+        chassis: "4T3ZF13C92U428620",
+        type: "Private",
+        issueDate: "2026-09-30",
+        expiryDate: "2027-09-30"
+
 
         
     }
