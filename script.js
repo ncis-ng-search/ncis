@@ -153,6 +153,17 @@ const policyDatabase = {
         type: "Private",
         issueDate: "2026-09-30",
         expiryDate: "2027-09-30"
+     },
+    "EBM408XA": {
+        name: "OLLOM GODWIN",
+        plate: "EBM408XA",
+        policyNo: "CV260911231",
+        make: "Daihatsu",
+        model: "Hijet",
+        chassis: "S200V00115364",
+        type: "Commercial",
+        issueDate: "2026-09-30",
+        expiryDate: "2027-09-30"
 
 
         
