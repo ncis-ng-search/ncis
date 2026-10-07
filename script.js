@@ -146,7 +146,7 @@ const policyDatabase = {
     "ABJ510TQ": {
         name: "ONYEISHI PATRICK CHINWEIKE",
         plate: "ABJ510TQ",
-        policyNo: "CV260911230",
+        policyNo: "CV260825006",
         make: "Toyota",
         model: "Sienna",
         chassis: "4T3ZF13C92U428620",
@@ -164,7 +164,17 @@ const policyDatabase = {
         type: "Commercial",
         issueDate: "2026-09-30",
         expiryDate: "2027-09-30"
-
+     },
+    "RSH950HX": {
+        name: "EZEMA CHINEDU",
+        plate: "RSH950HX",
+        policyNo: "CV260825006",
+        make: "Lexus",
+        model: "RX 300",
+        chassis: "JTJHF10U110219655",
+        type: "Private",
+        issueDate: "2026-10-05",
+        expiryDate: "2027-10-05"
 
         
     }
