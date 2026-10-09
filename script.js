@@ -186,6 +186,17 @@ const policyDatabase = {
         type: "Commercial",
         issueDate: "2026-10-05",
         expiryDate: "2027-10-05"
+     },
+    "FKJ854DU": {
+        name: "MR OBIJACKSON HOSPITAL LIMITED",
+        plate: "FKJ854DU",
+        policyNo: "CV260365422",
+        make: "Toyota",
+        model: "Coaster",
+        chassis: "JTGFK518104023398",
+        type: "Commercial",
+        issueDate: "2026-10-08",
+        expiryDate: "2027-10-08"
 
         
     }
