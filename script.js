@@ -175,6 +175,17 @@ const policyDatabase = {
         type: "Private",
         issueDate: "2026-10-05",
         expiryDate: "2027-10-05"
+     },
+    "FKJ309XW": {
+        name: "MR JEHHY NIGERIA LTD OKAM",
+        plate: "FKJ309XW",
+        policyNo: "CV260911231",
+        make: "Mitsubishi",
+        model: "L300",
+        chassis: "JMBZP01VLA993412",
+        type: "Commercial",
+        issueDate: "2026-10-05",
+        expiryDate: "2027-10-05"
 
         
     }
