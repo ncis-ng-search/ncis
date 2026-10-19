@@ -197,6 +197,17 @@ const policyDatabase = {
         type: "Commercial",
         issueDate: "2026-10-08",
         expiryDate: "2027-10-08"
+     },
+    "WER994YD": {
+        name: "ISAAC WONOR",
+        plate: "WER994YD",
+        policyNo: "CV260808012",
+        make: "Nissan",
+        model: "Caravan",
+        chassis: "VPE25079029",
+        type: "Commercial",
+        issueDate: "2026-10-17",
+        expiryDate: "2027-10-17"
 
         
     }
