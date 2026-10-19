@@ -208,6 +208,29 @@ const policyDatabase = {
         type: "Commercial",
         issueDate: "2026-10-17",
         expiryDate: "2027-10-17"
+     },
+    "FGG681LM": {
+        name: "CHUKWUDOZIE CLETUS",
+        plate: "FGG681LM",
+        policyNo: "CV260825006",
+        make: "Toyota",
+        model: "Highlander",
+        chassis: "5TDDK3EH4AS018530",
+        type: "Private",
+        issueDate: "2026-10-20",
+        expiryDate: "2027-10-20"
+     },
+    "NSH962FF": {
+        name: "NGOZI JENNIFER CHUKWUDOZIE",
+        plate: "NSH962FF",
+        policyNo: "CV260623511",
+        make: "Kia",
+        model: "Soul",
+        chassis: "KNAJT811BB7342806",
+        type: "Private",
+        issueDate: "2026-10-20",
+        expiryDate: "2027-10-20"
+
 
         
     }
