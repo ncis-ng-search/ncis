@@ -230,6 +230,17 @@ const policyDatabase = {
         type: "Private",
         issueDate: "2026-10-20",
         expiryDate: "2027-10-20"
+     },
+    "JJT260SA": {
+        name: "NGOZI JENNIFER CHUKWUDOZIE",
+        plate: "JJT260SA",
+        policyNo: "CV260623511",
+        make: "Lexus",
+        model: "E300",
+        chassis: "JTHBF30G200074685",
+        type: "Private",
+        issueDate: "2026-10-19",
+        expiryDate: "2027-10-19"
 
 
         
