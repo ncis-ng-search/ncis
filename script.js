@@ -241,6 +241,17 @@ const policyDatabase = {
         type: "Private",
         issueDate: "2026-10-19",
         expiryDate: "2027-10-19"
+     },
+    "JJT195CQ": {
+        name: "BASIL IKENNA",
+        plate: "JJT195CQ",
+        policyNo: "CV260365422",
+        make: "Mitsubishi",
+        model: "L300",
+        chassis: "022299QQQQ",
+        type: "Commercial",
+        issueDate: "2026-10-20",
+        expiryDate: "2027-10-20"
 
 
         
