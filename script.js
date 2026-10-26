@@ -252,6 +252,17 @@ const policyDatabase = {
         type: "Commercial",
         issueDate: "2026-10-20",
         expiryDate: "2027-10-20"
+     },
+    "NEN15NZ": {
+        name: "NWACHUKWU UGOCHUKWU",
+        plate: "NEN15NZ",
+        policyNo: "CV260365422",
+        make: "Toyota",
+        model: "Nadia",
+        chassis: "5XN100039553",
+        type: "Private",
+        issueDate: "2026-10-23",
+        expiryDate: "2027-10-23"
 
 
         
