@@ -232,7 +232,7 @@ const policyDatabase = {
         expiryDate: "2027-10-20"
      },
     "JJT260SA": {
-        name: "NGOZI JENNIFER CHUKWUDOZIE",
+        name: "Okpetta Charles",
         plate: "JJT260SA",
         policyNo: "CV260623511",
         make: "Lexus",
@@ -263,6 +263,18 @@ const policyDatabase = {
         type: "Private",
         issueDate: "2026-10-23",
         expiryDate: "2027-10-23"
+     },
+    "NNE675TF": {
+        name: "MR ASIKA CHIKWADO",
+        plate: "NNE675TF",
+        policyNo: "CV260365422",
+        make: "Mitsubishi",
+        model: "Delica",
+        chassis: "20010303",
+        type: "Private",
+        issueDate: "2026-10-23",
+        expiryDate: "2027-10-23"
+        
 
 
         
