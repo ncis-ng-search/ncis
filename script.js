@@ -274,7 +274,28 @@ const policyDatabase = {
         type: "Private",
         issueDate: "2026-10-23",
         expiryDate: "2027-10-23"
-        
+     },
+    "JJT218AL": {
+        name: "IGNATUS AJIDE",
+        plate: "JJT218AL",
+        policyNo: "CV260365422",
+        make: "Honda",
+        model: "HRV",
+        chassis: "JHMGH3750YS201680",
+        type: "Private",
+        issueDate: "2026-10-23",
+        expiryDate: "2027-10-23"
+     },
+    "HAL88AG": {
+        name: "EDWIN ILOH",
+        plate: "HAL88AG",
+        policyNo: "CV260365300",
+        make: "Mercedez-Benz",
+        model: "V-Class",
+        chassis: "WDB6114181P111305",
+        type: "Private",
+        issueDate: "2026-10-28",
+        expiryDate: "2027-10-28"
 
 
         
