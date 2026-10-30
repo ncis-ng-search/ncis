@@ -296,6 +296,17 @@ const policyDatabase = {
         type: "Private",
         issueDate: "2026-10-28",
         expiryDate: "2027-10-28"
+     },
+    "AJL497PC": {
+        name: "MR IGWE ROSEMARY",
+        plate: "AJL497PC",
+        policyNo: "CV260365300",
+        make: "Lexus",
+        model: "RX 330",
+        chassis: "JTJHA31U40054843",
+        type: "Private",
+        issueDate: "2026-10-29",
+        expiryDate: "2027-10-29"
 
 
         
