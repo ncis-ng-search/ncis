@@ -332,7 +332,7 @@ const policyDatabase = {
      },
     "NZM344XA": {
         name: "SUNDAY CHRISTOPHER",
-        plate: "KGE99RE",
+        plate: "NZM344XA",
         policyNo: "CV260365300",
         make: "Mitsubishi",
         model: "L300",
