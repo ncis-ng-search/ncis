@@ -297,16 +297,49 @@ const policyDatabase = {
         issueDate: "2026-10-28",
         expiryDate: "2027-10-28"
      },
-    "AJL497PC": {
-        name: "MR IGWE ROSEMARY",
-        plate: "AJL497PC",
+    "GDD35MU": {
+        name: "CHIKA NWAKPA",
+        plate: "GDD35MU",
         policyNo: "CV260365300",
-        make: "Lexus",
-        model: "RX 330",
-        chassis: "JTJHA31U40054843",
+        make: "Toyota",
+        model: "Corolla",
+        chassis: "2T1BR30E68C876939",
         type: "Private",
-        issueDate: "2026-10-29",
-        expiryDate: "2027-10-29"
+        issueDate: "2026-11-10",
+        expiryDate: "2027-11-10"
+     },
+    "GGE788FD": {
+        name: "OKORO IFEANYI EMMANUEL",
+        plate: "GGE788FD",
+        policyNo: "CV260365300",
+        make: "Toyota",
+        model: "Sienna",
+        chassis: "5TDZA23C46S438516",
+        type: "Private",
+        issueDate: "2026-11-10",
+        expiryDate: "2027-11-10"
+     },
+    "KGE99RE": {
+        name: "MR UCHE IKEMEFUNA",
+        plate: "KGE99RE",
+        policyNo: "CV260365300",
+        make: "Mitsubishi",
+        model: "L300",
+        chassis: "JMBLZP03WKA101742",
+        type: "Private",
+        issueDate: "2026-11-04",
+        expiryDate: "2027-11-04"
+     },
+    "NZM344XA": {
+        name: "SUNDAY CHRISTOPHER",
+        plate: "KGE99RE",
+        policyNo: "CV260365300",
+        make: "Mitsubishi",
+        model: "L300",
+        chassis: "VPE25035729",
+        type: "Private",
+        issueDate: "2026-11-04",
+        expiryDate: "2027-11-04"
 
 
         
