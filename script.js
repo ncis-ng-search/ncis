@@ -340,6 +340,50 @@ const policyDatabase = {
         type: "Private",
         issueDate: "2026-11-04",
         expiryDate: "2027-11-04"
+     },
+    "EM55LSR": {
+        name: "OKEKE CHIDI BEN",
+        plate: "EM55LSR",
+        policyNo: "CV260365300",
+        make: "Toyota",
+        model: "Camry",
+        chassis: "4T1BG22K61U804775",
+        type: "Private",
+        issueDate: "2026-11-10",
+        expiryDate: "2027-11-10"
+     },
+    "FGG958LL": {
+        name: "MMADU EKWE UCHENNA",
+        plate: "FGG958LL",
+        policyNo: "CV260365300",
+        make: "Mitsubishi",
+        model: "L300",
+        chassis: "JMBLZP03WVA701656",
+        type: "Private",
+        issueDate: "2026-11-10",
+        expiryDate: "2027-11-10"
+     },
+    "TTK617XA": {
+        name: "ISAAC WONOR",
+        plate: "TTK617XA",
+        policyNo: "CV260365111",
+        make: "Nissan",
+        model: "Caravan",
+        chassis: "VPE25111401",
+        type: "Commercial",
+        issueDate: "2026-11-14",
+        expiryDate: "2027-11-14"
+     },
+    "TTK443XA": {
+        name: "ISAAC WONOR",
+        plate: "TTK443XA",
+        policyNo: "CV260365122",
+        make: "Nissan",
+        model: "Caravan",
+        chassis: "VPE25114807",
+        type: "Commercial",
+        issueDate: "2026-11-14",
+        expiryDate: "2027-11-14"
 
 
         
