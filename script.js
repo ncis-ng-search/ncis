@@ -384,6 +384,40 @@ const policyDatabase = {
         type: "Commercial",
         issueDate: "2026-11-14",
         expiryDate: "2027-11-14"
+     },
+    "JRV219EA": {
+        name: "MR ERIC ANYAJI",
+        plate: "JRV219EA",
+        policyNo: "CV260365122",
+        make: "Mitsubishi",
+        model: "L300",
+        chassis: "JMBLNP03WRA500275",
+        type: "Private",
+        issueDate: "2026-11-16",
+        expiryDate: "2027-11-16"
+     },
+    "NSK228AA": {
+        name: "ALIEZE CHIMAOBI",
+        plate: "NSK228AA",
+        policyNo: "CV260365122",
+        make: "Daihatsu",
+        model: "Hijet",
+        chassis: "S321V0296138",
+        type: "Commercial",
+        issueDate: "2026-11-18",
+        expiryDate: "2027-11-18"
+        },
+    "RLU595AL": {
+        name: "IKE NDUBUISI LAWRENCE",
+        plate: "RLU595AL",
+        policyNo: "CV260365751",
+        make: "Toyota",
+        model: "Camry",
+        chassis: "4T1BE32K92U082306",
+        type: "Private",
+        issueDate: "2026-11-16",
+        expiryDate: "2027-11-16"
+
 
 
         
