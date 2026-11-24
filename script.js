@@ -406,7 +406,7 @@ const policyDatabase = {
         type: "Commercial",
         issueDate: "2026-11-18",
         expiryDate: "2027-11-18"
-        },
+      },
     "RLU595AL": {
         name: "IKE NDUBUISI LAWRENCE",
         plate: "RLU595AL",
@@ -417,6 +417,18 @@ const policyDatabase = {
         type: "Private",
         issueDate: "2026-11-16",
         expiryDate: "2027-11-16"
+      },
+    "AWK954KE": {
+        name: "UCHENNA INNOCENT AHANOTU",
+        plate: "AWK954KE",
+        policyNo: "CV260363131",
+        make: "Honda",
+        model: "CRV",
+        chassis: "JHLRD1740WC013233",
+        type: "Private",
+        issueDate: "2026-11-24",
+        expiryDate: "2027-11-24"
+
 
 
 
