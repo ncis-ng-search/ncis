@@ -428,6 +428,17 @@ const policyDatabase = {
         type: "Private",
         issueDate: "2026-11-24",
         expiryDate: "2027-11-24"
+      },
+    "JJT863TQ": {
+        name: "UGWU LOUIS",
+        plate: "JJT863TQ",
+        policyNo: "CV260322146",
+        make: "Mitsubishi",
+        model: "L300",
+        chassis: "JMBLZP03WLA104926",
+        type: "Private",
+        issueDate: "2026-11-25",
+        expiryDate: "2027-11-25"
 
 
 
